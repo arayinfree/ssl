@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://aligege.jios.org:4000/webapp/ipa/images/icon-57.png</string>
+					<string>http://aligege.jios.org:4000/webapp/ipa/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://aligege.jios.org:4000/webapp/ipa/images/icon-512.png</string>
+					<string>http://aligege.jios.org:4000/webapp/ipa/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
