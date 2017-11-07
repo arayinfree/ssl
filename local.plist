@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.199.127:40000/aray/ipa/InsectPoker-mobile.ipa</string>
+					<string>http://192.168.2.94:40000/aray/ipa/InsectPoker-mobile.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.199.127:40000/aray/ipa/icon-57.png</string>
+					<string>http://192.168.2.94:40000/aray/ipa/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.199.127:40000/aray/ipa/icon-512.png</string>
+					<string>http://192.168.2.94:40000/aray/ipa/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
