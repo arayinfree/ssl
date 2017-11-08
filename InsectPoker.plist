@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chongzzz.texas</string>
+				<string>com.chongzzz.poker</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>虫子扑克</string>
+				<string>虫子德州扑克</string>
 			</dict>
 		</dict>
 	</array>
